@@ -3,7 +3,7 @@ Sage is a Go library designed to simplify the task of image validation, either f
 
 # Installation
 ```sh
-  go get github.com/insanXYZ/sage
+  go get github.com/riocdr/sage
 ```
 
 # Example
