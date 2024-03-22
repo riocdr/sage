@@ -11,7 +11,7 @@ Sage is a Go library designed to simplify the task of image validation, either f
 #### <b>Image in your pc
 ```go
 import (
-    "github.com/insanXYZ/sage"
+    "github.com/riocdr/sage"
 )
 
 //open file in your pc with os.open
